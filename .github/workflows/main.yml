@@ -1,0 +1,1 @@
+$ mvn package && java -jar target/april-github-star-list.jar
